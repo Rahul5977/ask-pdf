@@ -2,4 +2,4 @@ services:
   vector-db:
     image: qdrant/qdrant
     ports:
-      - 6335:6335
+      - 6333:6333
